@@ -1,0 +1,67 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/zhanglong/Work/Personal/ZlsamViewPager/src/main/AndroidManifest.xml:2:1-17:12
+	package
+		ADDED from /Users/zhanglong/Work/Personal/ZlsamViewPager/src/main/AndroidManifest.xml:3:7-43
+	android:versionName
+		ADDED from /Users/zhanglong/Work/Personal/ZlsamViewPager/src/main/AndroidManifest.xml:5:7-32
+		INJECTED from /Users/zhanglong/Work/Personal/ZlsamViewPager/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhanglong/Work/Personal/ZlsamViewPager/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/zhanglong/Work/Personal/ZlsamViewPager/src/main/AndroidManifest.xml:4:7-30
+		INJECTED from /Users/zhanglong/Work/Personal/ZlsamViewPager/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhanglong/Work/Personal/ZlsamViewPager/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/zhanglong/Work/Personal/ZlsamViewPager/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /Users/zhanglong/Work/Personal/ZlsamViewPager/src/main/AndroidManifest.xml:6:5-73
+MERGED from [ZlsamViewPager.libraries:ZlsamViewPagerLib:unspecified] /Users/zhanglong/Work/Personal/ZlsamViewPager/libraries/ZlsamViewPagerLib/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/zhanglong/.android/build-cache/4672d6a296b66bef30e2eeb3f7d5b515a9ed11ff/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/zhanglong/.android/build-cache/f9afea85c2eec8ce6ce5a89e7397d73a73ba9ce3/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/zhanglong/.android/build-cache/d00b8d27966b3f100f3a528fb4b131ec14996b77/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/zhanglong/.android/build-cache/bb1fea90b2d9f9990802aee072bd8e0013a8e65b/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /Users/zhanglong/.android/build-cache/066a6521cba6d0d06f78a6338da0d09f9ab0c33f/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-fragment:25.3.1] /Users/zhanglong/.android/build-cache/4672d6a296b66bef30e2eeb3f7d5b515a9ed11ff/output/AndroidManifest.xml:23:9-57
+	android:targetSdkVersion
+		ADDED from /Users/zhanglong/Work/Personal/ZlsamViewPager/src/main/AndroidManifest.xml:6:42-71
+	android:minSdkVersion
+		ADDED from /Users/zhanglong/Work/Personal/ZlsamViewPager/src/main/AndroidManifest.xml:6:15-41
+application
+ADDED from /Users/zhanglong/Work/Personal/ZlsamViewPager/src/main/AndroidManifest.xml:8:5-16:19
+MERGED from [ZlsamViewPager.libraries:ZlsamViewPagerLib:unspecified] /Users/zhanglong/Work/Personal/ZlsamViewPager/libraries/ZlsamViewPagerLib/build/intermediates/bundles/default/AndroidManifest.xml:18:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/zhanglong/.android/build-cache/4672d6a296b66bef30e2eeb3f7d5b515a9ed11ff/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/zhanglong/.android/build-cache/f9afea85c2eec8ce6ce5a89e7397d73a73ba9ce3/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/zhanglong/.android/build-cache/d00b8d27966b3f100f3a528fb4b131ec14996b77/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/zhanglong/.android/build-cache/bb1fea90b2d9f9990802aee072bd8e0013a8e65b/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/zhanglong/.android/build-cache/066a6521cba6d0d06f78a6338da0d09f9ab0c33f/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/zhanglong/Work/Personal/ZlsamViewPager/src/main/AndroidManifest.xml:8:18-50
+	android:icon
+		ADDED from /Users/zhanglong/Work/Personal/ZlsamViewPager/src/main/AndroidManifest.xml:8:51-87
+activity#com.zlsam.imageviewer.demo.ImageViewerActivityDemo
+ADDED from /Users/zhanglong/Work/Personal/ZlsamViewPager/src/main/AndroidManifest.xml:9:9-15:20
+	android:label
+		ADDED from /Users/zhanglong/Work/Personal/ZlsamViewPager/src/main/AndroidManifest.xml:10:19-51
+	android:name
+		ADDED from /Users/zhanglong/Work/Personal/ZlsamViewPager/src/main/AndroidManifest.xml:9:19-58
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/zhanglong/Work/Personal/ZlsamViewPager/src/main/AndroidManifest.xml:11:13-14:29
+action#android.intent.action.MAIN
+ADDED from /Users/zhanglong/Work/Personal/ZlsamViewPager/src/main/AndroidManifest.xml:12:17-69
+	android:name
+		ADDED from /Users/zhanglong/Work/Personal/ZlsamViewPager/src/main/AndroidManifest.xml:12:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/zhanglong/Work/Personal/ZlsamViewPager/src/main/AndroidManifest.xml:13:17-77
+	android:name
+		ADDED from /Users/zhanglong/Work/Personal/ZlsamViewPager/src/main/AndroidManifest.xml:13:27-74
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-fragment:25.3.1] /Users/zhanglong/.android/build-cache/4672d6a296b66bef30e2eeb3f7d5b515a9ed11ff/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/zhanglong/.android/build-cache/f9afea85c2eec8ce6ce5a89e7397d73a73ba9ce3/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/zhanglong/.android/build-cache/d00b8d27966b3f100f3a528fb4b131ec14996b77/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/zhanglong/.android/build-cache/bb1fea90b2d9f9990802aee072bd8e0013a8e65b/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/zhanglong/.android/build-cache/066a6521cba6d0d06f78a6338da0d09f9ab0c33f/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:support-fragment:25.3.1] /Users/zhanglong/.android/build-cache/4672d6a296b66bef30e2eeb3f7d5b515a9ed11ff/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:support-fragment:25.3.1] /Users/zhanglong/.android/build-cache/4672d6a296b66bef30e2eeb3f7d5b515a9ed11ff/output/AndroidManifest.xml:26:9-47

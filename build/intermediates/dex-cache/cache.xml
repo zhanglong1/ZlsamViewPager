@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/zhanglong/.android/build-cache/066a6521cba6d0d06f78a6338da0d09f9ab0c33f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/zhanglong/Work/Personal/ZlsamViewPager/build/intermediates/pre-dexed/debug/classes_1d6a79ddd6ffea433a72bd324fcdb5e9a36d822d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhanglong/Applications/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/zhanglong/Work/Personal/ZlsamViewPager/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_8879a4628d1bf13c7c482ac8200482c810287fc0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhanglong/Work/Personal/ZlsamViewPager/libraries/ZlsamViewPagerLib/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8c511dc23d029bdd6aafa73a2010164a38343a0a">
+        <dex dex="/Users/zhanglong/Work/Personal/ZlsamViewPager/build/intermediates/pre-dexed/debug/classes_1dd90c4f5a27db721ca11a614af72e1ead494918.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhanglong/.android/build-cache/bb1fea90b2d9f9990802aee072bd8e0013a8e65b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/zhanglong/Work/Personal/ZlsamViewPager/build/intermediates/pre-dexed/debug/classes_ccf01e669d064d4ef8cda1747b774c9b0a39af15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhanglong/.android/build-cache/4672d6a296b66bef30e2eeb3f7d5b515a9ed11ff/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/zhanglong/Work/Personal/ZlsamViewPager/build/intermediates/pre-dexed/debug/classes_58a6718989c42e333b406d5f552ba47a2069b40d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhanglong/.android/build-cache/d00b8d27966b3f100f3a528fb4b131ec14996b77/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/zhanglong/Work/Personal/ZlsamViewPager/build/intermediates/pre-dexed/debug/classes_18fde65eb55444d3c2afdcbf11e67bce6ac84144.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhanglong/.android/build-cache/f9afea85c2eec8ce6ce5a89e7397d73a73ba9ce3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/zhanglong/Work/Personal/ZlsamViewPager/build/intermediates/pre-dexed/debug/classes_054a0f4ed2a9a5a9c90edf818716ec105ac9815f.jar" />
+    </item>
+
+</items>

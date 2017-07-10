@@ -1,0 +1,3 @@
+int attr dividerWidth 0x7f010000
+int[] styleable ZLViewPager { 0x7f010000 }
+int styleable ZLViewPager_dividerWidth 0
