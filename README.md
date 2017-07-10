@@ -1,4 +1,6 @@
 #ZlsamViewPager  
+您可以用该控件实现类似于微信朋友圈图片查看器的效果。
+
 ## 效果图  
 ![Alt text](src/main/res/raw/device-2017-07-10-162444.png?raw=true "pic1")
 ![Alt text](src/main/res/raw/device-2017-07-10-162510.png?raw=true "pic2")
