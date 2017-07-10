@@ -1,7 +1,7 @@
 #ZlsamViewPager  
 ## 效果图  
 ![Alt text](src/main/res/raw/device-2017-07-10-162444.png?raw=true "pic1")
-![Alt text](src/main/res/raw/device-2017-07-10-162444.png?raw=true "pic2")
+![Alt text](src/main/res/raw/device-2017-07-10-162510.png?raw=true "pic2")
 
 ## 用法  
 - 将libraries/ZlsamViewPagerLib拷贝到您的项目中
